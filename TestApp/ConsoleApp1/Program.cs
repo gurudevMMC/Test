@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World! dfdsfd");
             TestClass cl = new TestClass();
-            Console.WriteLine(cl.GetData());
+            Console.WriteLine(cl.GetData())
         }
     }
 }
